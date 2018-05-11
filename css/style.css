@@ -1,0 +1,34 @@
+ .voltar-ao-topo {
+            position: fixed;
+            bottom: 2em;
+            right: 2em;
+            text-decoration: none;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.3);
+            font-size: 12px;
+            padding: 1em;
+            display: none;
+        }
+        .voltar-ao-topo:hover {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+   .loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-image: url('../img/loader-orange.gif');
+    background-repeat:no-repeat;   
+    background-position: center; 
+    background-color: white; 
+        }
+        .divImg{
+            margin: 1px 4px 0 0;
+            padding: 3px;
+            background-color: #ffffff;
+             border: 1px solid #dbdbdb;
+            
+        }
