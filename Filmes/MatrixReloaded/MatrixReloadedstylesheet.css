@@ -1,0 +1,107 @@
+body {
+	background-image: url('MatrixReloadedBack.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;    
+    
+    
+}
+h1 {
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: white;
+        text-shadow: 2px 2px 5px blue;
+}
+h2 {
+	font-family: Arial;
+	font-weight: bold;
+	text-align: justify;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: WHITE;
+        text-shadow: 2px 2px 5px BLUE;
+}
+h3 {
+	font-family: Arial;
+	font-weight: bold;
+	text-align: justify;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: WHITE;
+        text-shadow: 2px 2px 5px BLUE;
+}
+
+img {
+	height: 500px;
+	width: 500px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+
+#header {
+        height: 50px;
+	width: 100% ;
+	position: relative;
+	top: -20px;
+	background-color: black;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+
+
+
+
+#G {
+  
+  
+  width: 50%;
+  
+  margin-top:15px;
+  float: LEFT;
+  
+}
+
+
+
+#footer{
+    clear:both;
+	position: relative;
+	bottom: -385px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	height: 50px;
+	background-color: black;
+        width: 100%;
+}
+
+.bold{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	color: #ffffff;
+}
+
+
+
+.B1{
+	
+	float:left;
+	position: relative;
+	left: 5%;
+	bottom: -10px;
+	border-radius: 10px;
+	background-color: 
+	height: 20px;
+	width: auto;
+	display: inline;
+        margin-left:5px;
+}
+.B1:hover { 
+background:white;
+
+}
