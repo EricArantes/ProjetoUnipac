@@ -1,0 +1,141 @@
+body {
+	background-image: url('Back6.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-attachment: fixed;    
+    padding: 3em;
+    position: relative;
+   
+   
+    
+}
+h1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: white;
+        text-shadow: 2px 2px 5px blue;
+}
+h2 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: WHITE;
+        text-shadow: 2px 2px 5px BLUE;
+}
+h3 {
+	font-family: Arial;
+	font-weight: bold;
+	text-align: justify;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: WHITE;
+        text-shadow: 2px 2px 5px BLUE;
+}
+p {
+	font-family: Arial;
+	font-weight: bold;
+	text-align: justify;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: WHITE;
+        text-shadow: 2px 2px 5px BLUE;
+}
+
+img {
+	 width: 300px;
+         height: 250px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+#separador {
+    width: 100%; 
+    border-top: 5px solid #000;
+    list-style-type: none;
+}
+#header {
+        height: 50px;
+	width: 100% ;
+	position: relative;
+	top: -78px;
+	background-color: black;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+
+#L {
+  
+  
+  width:600px;
+  margin-left:15px;
+  margin-top:15px;
+  float:left;
+  padding: 4px;
+}
+
+#C {
+  
+  
+  width:600px;
+  margin-left:300px;
+  margin-top:5px;
+  float:center;
+  padding: 4px;
+}
+#R{
+
+width:500px;
+float:right;
+margin-top:70px;
+}
+
+
+
+
+
+#footer{
+    clear:both;
+	position: relative;
+	bottom: -50px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	height: 50px;
+	background-color: black;
+        
+}
+.B1{
+	
+	float:left;
+	position: relative;
+	left: 5%;
+	bottom: -10px;
+	border-radius: 10px;
+	background-color: 
+	height: 20px;
+	width: auto;
+	display: inline;
+        margin-left:5px;
+}
+.B1:hover { 
+background:white;
+
+}
+
+
+
+
+
+.bold{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	color: #ffffff;
+}
+
+
