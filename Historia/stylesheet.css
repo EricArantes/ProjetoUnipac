@@ -18,15 +18,7 @@ h1 {
 	color: white;
         text-shadow: 2px 2px 5px blue;
 }
-h2 {
-	font-family: Verdana;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	color: WHITE;
-        text-shadow: 2px 2px 5px BLUE;
-}
+
 h3 {
 	font-family: Arial;
 	font-weight: bold;
@@ -85,8 +77,6 @@ font-size:20px;
   padding: 4px;
 }
 
-
-
 #C {
   
   text-align: justify;
@@ -131,20 +121,4 @@ background:white;
 	border-bottom-right-radius: 25px;
 	height: 50px;
 	background-color: black;
-}
-
-
-
-
-.bold{
-	font-family: tahoma;
-	font-weight: bold;
-	font-size: 1.2em;
-	font-variant: small-caps;
-	color: #ffffff;
-}
-
-#ia {
-	width: 100%;
-	height: 100%;
 }
